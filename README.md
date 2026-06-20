@@ -77,9 +77,9 @@ The project follows a complete data mining workflow including data preparation, 
 
 Abu Fatah Mohammed Faisal
 
-Curtin University
-
 Master of Precitive Analytics
+
+Curtin University
 
 ## Disclaimer
 
